@@ -1,6 +1,6 @@
 # The AART&trade;,  Remora&trade; 2 Slot Car eCom
 
-This git repo contains the files you need to make a Remora 2 slot car electronic commutator at JLCPCB (eCom). 
+This git repo contains the files you need to make a Remora 2 slot car electronic commutator (eCom) at [JLCPCB](https://jlcpcb.com). 
 
 The files were exported from KiCad and are in the "production" directory in this repo. They comprise:
 
