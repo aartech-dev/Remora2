@@ -2,7 +2,7 @@
 
 This git repo contains the files you need to make a Remora 2 slot car electronic commutator (eCom) at [JLCPCB](https://jlcpcb.com). 
 
-The files were exported from KiCad and are in the "production" directory in this repo. They comprise:
+The files were exported from KiCad and are in the ["production" directory](https://github.com/aartech-dev/Remora2/tree/main/production) in this repo. They comprise:
 
   - the [Gerber Files](https://github.com/aartech-dev/Remora2/blob/main/production/Remora2.0.zip)
   - the [Bill of Materials file](https://github.com/aartech-dev/Remora2/blob/main/production/bom.csv) [JLCPCB example](https://jlcpcb.com/help/article/bill-of-materials-for-pcb-assembly) 
