@@ -8,4 +8,4 @@ The files were exported from KiCad and are in the ["production" directory](https
   - the [Bill of Materials file](https://github.com/aartech-dev/Remora2/blob/main/production/bom.csv) [JLCPCB example](https://jlcpcb.com/help/article/bill-of-materials-for-pcb-assembly) 
   - the [Pick and Place file](https://github.com/aartech-dev/Remora2/blob/main/production/positions.csv) [JLCPCB example](https://jlcpcb.com/help/article/pick-place-file-for-pcb-assembly)
 
-By downloading these files you implicitly need to agree with the associated [Open Source license agreement](https://github.com/aartech-dev/Remora2/blob/main/AART_Remora_eCom_License_v2.0.pdf).
+By downloading these files you implicitly need to agree with the associated [modified Open Source license agreement](https://github.com/aartech-dev/Remora2/blob/main/AART_Remora_eCom_License_v2.0.pdf).
