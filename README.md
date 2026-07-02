@@ -10,6 +10,8 @@ The files were exported from KiCad and are in the ["production" directory](https
 
 By downloading these files you implicitly need to agree with the associated [modified Open Source license agreement](https://github.com/aartech-dev/Remora2/blob/main/AART_Remora_eCom_License_v2.0.pdf).
 
+There's some more information on [the WiKi](https://github.com/aartech-dev/Remora2/wiki/The-AART-Remora-2-eCom)
+
 The ESCape32 binaries are in the [bin directory](https://github.com/aartech-dev/Remora2/tree/main/bin). The build targets are:
 
     add_target(BOOT3_PA2_FE STM32F0 AT32F4 IO_PA2 IO_RXTX FAST_EXIT)    
